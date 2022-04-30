@@ -10,6 +10,6 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/Loliconera/instant-revive/master/"],
-    "supportUrl": "https://github.com/Loliconera/instant-revive/issues"
+    "servers": ["https://raw.githubusercontent.com/Lambda11/instant-revive/master/"],
+    "supportUrl": "https://github.com/Lambda11/instant-revive/issues"
 }
